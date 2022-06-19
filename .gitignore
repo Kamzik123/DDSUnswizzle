@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+Properties/PublishProfiles/
+DDSUnswizzle.sln
+DDSUnswizzle.csproj.user
